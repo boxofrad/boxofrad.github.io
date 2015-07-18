@@ -4,8 +4,9 @@ title: Nameless Parameters in RubyMotion
 date: 2015-07-18
 ---
 
-While working on an iOS app for a client I came across an interesting language-level bug (or missing feature?) in RubyMotion.
-
+<p class="intro">
+  <span class="dropcap">W</span>hile working on an iOS app for a client I came across an interesting language-level bug (or missing feature?) in RubyMotion.
+</p>
 
 The app has a fancy animation which needed a method on 
 [CAMediaTimingFunction](https://developer.apple.com/library//ios/documentation/Cocoa/Reference/CAMediaTimingFunction_class/index.html) called 
