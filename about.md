@@ -7,7 +7,7 @@ permalink: /about/
 <div class="post">
   <h1 class="pageTitle">About Me</h1>
   <div class="featuredImage">
-    <img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt="My ugly mug" />
+    <img src="http://www.gravatar.com/avatar/e289085517b264a80af9f1dcb10e6caa.jpg?s=512" alt="My ugly mug" />
   </div>
 
   <p class="intro padded">Hi! I'm Daniel<br>I'm a Jesus Person and a Programmer.</p>
