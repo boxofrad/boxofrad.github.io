@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nameless Parameters in RubyMotion
+title: Nameless parameters in RubyMotion
 date: 2015-07-18
 ---
 

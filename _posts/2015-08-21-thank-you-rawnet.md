@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank You Rawnet <3
+title: Thank you Rawnet <3
 date: 2015-08-21
 ---
 
