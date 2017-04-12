@@ -22,3 +22,6 @@ social:
    facebook: daniel.upton
 
 google_analytics: "UA-65292437-1"
+
+gems:
+  - jekyll-paginate
